@@ -729,6 +729,10 @@
     function resetGame() { initGame(); }
 
     window.onload = loadThemesData;
+
+    document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+        });
 </script>
 </body>
 </html>
