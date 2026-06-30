@@ -1,8 +1,8 @@
 {
-    "asean": [
-        "INDONESIA", "THAILAND", "VIETNAM", "MYANMAR", "LAOS", 
-        "KAMBOJA", "MALAYSIA", "BRUNEI", "TIMORLESTE", "SINGAPURA",
-        "FILIPINA"
+    "kendaraan": [
+        "MOBIL", "SEPEDA", "SEPEDAMOTOR", "BECAK", "PESAWAT", 
+        "KERETA", "KAPAL", "PERAHU", "AMBULANS", "BUS",
+        "TRUK", "TAKSI"
     ],
     "profesi": [
         "PETANI", "DOKTER", "POLISI", "TENTARA", "PILOT", 
