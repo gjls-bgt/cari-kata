@@ -1,4 +1,9 @@
 {
+    "asean": [
+        "INDONESIA", "THAILAND", "VIETNAM", "MYANMAR", "LAOS", 
+        "KAMBOJA", "MALAYSIA", "BRUNEIDARUSSALAM", "TIMORLESTE", "SINGAPURA",
+        "FILIPINA"
+    ],
     "profesi": [
         "PETANI", "DOKTER", "POLISI", "TENTARA", "PILOT", 
         "MASINIS", "NAHKODA", "SOPIR", "GURU", "PERAWAT",
